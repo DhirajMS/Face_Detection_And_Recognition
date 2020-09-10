@@ -1,0 +1,7 @@
+﻿  Face_Detection_And_Recognition.cpp
+G:\Work\FD_C++\Face_Detection_And_Recognition\Face_Detection_And_Recognition\FaceRec.h(114,7): warning C4101: 'key': unreferenced local variable
+G:\Work\FD_C++\Face_Detection_And_Recognition\Face_Detection_And_Recognition\FaceRec.h(278,102): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+G:\Work\FD_C++\Face_Detection_And_Recognition\Face_Detection_And_Recognition\FaceRec.h(282,112): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+G:\Work\FD_C++\Face_Detection_And_Recognition\Face_Detection_And_Recognition\FaceRec.h(284,147): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+G:\Work\FD_C++\Face_Detection_And_Recognition\Face_Detection_And_Recognition\FaceRec.h(286,110): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Face_Detection_And_Recognition.vcxproj -> G:\Work\FD_C++\Face_Detection_And_Recognition\x64\Debug\Face_Detection_And_Recognition.exe
